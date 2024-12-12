@@ -1,0 +1,34 @@
+@import url("../../css2");
+@import url("../../css");
+@import url("../../css-1");
+@import url("../../css-2");
+@import url("../../css-3");
+@import url("../../css-4");
+@import url("../icons/simple-line-icons/css/simple-line-icons.css");
+@import url("../icons/font-awesome/css/all.min.css");
+@import url("../icons/material-design-iconic-font/css/materialdesignicons.min.css");
+@import url("../icons/themify-icons/css/themify-icons.css");
+@import url("../icons/line-awesome/css/line-awesome.min.css");
+@import url("../icons/avasta/css/style.css");
+@import url("../icons/flaticon/flaticon.css");
+@import url("../icons/flaticon_1/flaticon_1.css");
+@import url("../icons/icomoon/icomoon.css");
+@import url("../icons/bootstrap-icons/font/bootstrap-icons.css");
+@import url(../vendor/animate/animate.min.css);
+@import url(../vendor/aos/css/aos.min.css);
+@import url(../vendor/perfect-scrollbar/css/perfect-scrollbar.css);
+@import url(../vendor/metismenu/css/metisMenu.min.css);
+
+
+.button1 {
+    padding: 10px 20px;
+    border-radius: 20px;
+    background-color: rgba(201, 201, 205, 0.642);
+    color: #f6f6f6;
+}
+.button1:hover{
+    /* padding: 9px 25px; */
+    
+    background-color: rgb(73, 143, 248);
+    color: #f6f6f6;
+}
